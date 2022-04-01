@@ -5,3 +5,9 @@
 Dataset en Kaggle: [100,000 UK Used Car Data set](https://www.kaggle.com/datasets/adityadesai13/used-car-dataset-ford-and-mercedes)
 
 Dataset mediante GitHub: [cars.csv](https://raw.githubusercontent.com/fferegrino/cf-ml/main/car-prices/cars.csv)
+
+# Notebook
+
+![preview](data/preview.png)
+
+Puedes visualizar el proceso que llevaron los datos en [Cars.ipynb](https://github.com/GilbertoNavaMarcos/car-price/blob/main/Cars.ipynb)
